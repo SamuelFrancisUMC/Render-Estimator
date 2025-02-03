@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "render_estimator"
+version = "2.0.0"
+name = "Render Estimator"
+tagline = "Simple add-on to estimate animation render time"
+maintainer = "UnicornHunter CG"
+type = "add-on"
+
+tags = ["Animation", "Render", "User Interface"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
